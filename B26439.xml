@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration or denouncing of war vvhich Sultan-Mahomet, the present emperor of the Turks, sent to the emperor of Germany, dated March 25th 1683, from Adrianople ... / faithfully translated out of High Dutch, brought over by the last forraign mayle.</title>
+            <author>Mehmed IV, Sultan of the Turks, 1642-1693.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26439</idno><idno type="EEBO-CITATION">31355071</idno>
+  <idno type="VID">205921</idno>
+  <idno type="EEBO-PROQUEST">2240895680</idno>
+  
+            <idno type="STC">Wing M263</idno>
+            <idno type="OCLC">31355071</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration or denouncing of war vvhich Sultan-Mahomet, the present emperor of the Turks, sent to the emperor of Germany, dated March 25th 1683, from Adrianople ... / faithfully translated out of High Dutch, brought over by the last forraign mayle.</title>
+                  <author>Mehmed IV, Sultan of the Turks, 1642-1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Entered according to order."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Austro-Turkish War, 1683-1699.</term>
+               <term type="geographic_name">Turkey --  Foreign relations --  Holy Roman Empire.</term>
+               <term type="geographic_name">Holy Roman Empire --  Foreign relations --  Turkey.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205921:1"/>
+            <head>A <hi>Declaration or Denouncing</hi> OF WAR, VVhich <hi>Sultan-Mahomet,</hi> the present Emperor of the Turks, sent to the Emperor of <hi>Germany,</hi> Dated <hi>March</hi> 25<seg rend="sup">th</seg> 1683. from <hi>Adrianople</hi> just af<g ref="char:EOLhyphen"/>ter the Baron <hi>Saphonara</hi> the Emperor's Ambas<g ref="char:EOLhyphen"/>sador had his last Audience of the Prince <hi>Ʋirier</hi> wherein the said Ambassador could not comply to the Extravagant Demands of the Turk; which caused the said Grand Seignior to trans<g ref="char:EOLhyphen"/>mitt the same to his Imperial Majesty, which is faithfully translated out of <hi>High Dutch, brought over by the last Forraign</hi> Mayle.</head>
+            <argument>
+               <p>Entered according to ORDER.</p>
+            </argument>
+            <opener>
+               <signed>MAHOMET the fourth Son of Emperors, and of the Famous and Renowned God, Emperor of the <hi>Turks,</hi> King of <hi>Greece, Macedonia, Moldavia, Samaria,</hi> and <hi>Hegha,</hi> King of great and lesser <hi>Aegypt,</hi> King of all the Inha<g ref="char:EOLhyphen"/>bitants of the Earth, and Prince of the Earthly Paradice; ac<g ref="char:EOLhyphen"/>knowledged Prince and Son of <hi>Mahomet,</hi> preserver of the Cities of <hi>Hungaria,</hi> Possessor of the Sepulchre of your God, Lord of all the Emperors of the World; from the rising of the Sun, to the going down thereof: King of all Kings, Lord of the Tree of Life, Conqueror of the <hi>Melonian Hegley,</hi> and the City <hi>Prokenix,</hi> the great Persecutor of the Christians and all wicked people, joy of the florishing World, Commander and Guardian of your Crucified God, Lord of the multitude of the
+<pb facs="tcp:205921:2"/>Heathens:</signed>
+               <salute>We Command yee to Greet the Emperor <hi>Leopold,</hi> in Case he desire it, and you are a Friend to our Majesty whose Power and Will we have extended very farr:</salute>
+            </opener>
+            <p>you have for some time past acted to our prejudice, and violated our Friendship; tho' We have not offended you either by War or otherwise, yet you have taken secret advice with other Kings, and your Councils how to shake off your Yoak; in which you have pro<g ref="char:EOLhyphen"/>ceeded very indiscreetly; and thereby you have exposed your people to fear and danger, who have nothing to expect now but Death, which you have brought upon your selves; for I declare I will make my self your Master, &amp; pursue you from the East to the West, and extend my Majesty to the End of the Earth: in the procedure of all which you shall find my Power exerted to your extream prejudice, &amp; shall feel the dreadfull effects of my Wrath; and since you have put your hope in the strength of some Towns and Castles, I have given Command to overthrow them, and trample under my Horses feet all that is delightful to you leaving no roome hereafter to make friendship with me, or suffer you any fortified place to remain to put yotr trust in; for I have resolved forthwith to destroy you and your people, and to dispoyle you of the <hi>German</hi> Empire after my Will, Leaving in the Empire a remembrance of my dreadfull Sword, that it may publickly ap<g ref="char:EOLhyphen"/>pear that I will establish my Religion therein, and pursue your Cru<g ref="char:EOLhyphen"/>cified God: whose Wrath I fear not, nor his Coming to defend, or deliver you out of my hands; but will condemn your Sacred Priests to the Plough, and suffer the Breasts of your wives to be suckt by dogs and Beasts; you will do well to forsake your Re<g ref="char:EOLhyphen"/>ligion, otherwise <hi>I</hi> will give Order to Consume you with Fire: this is enough to let you understand my Will; if you will be so wise as to know it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Langly Curtis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
